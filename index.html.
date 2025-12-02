@@ -1,0 +1,25 @@
+# Jijo App
+
+![Jijo Logo](logo.png) *(Optional: add your logo here)*
+
+**Jijo** is a mobile-first application designed for motorcycle riders and mechanics. It provides a seamless platform for riders to connect with trusted mechanics, manage emergencies, and track their motorcycles’ maintenance needs. Our mission is to make motorcycle ownership safer, faster, and more convenient.
+
+---
+
+## **Features**
+
+- **Emergency Button:** Quick access to emergency services in case of accidents or breakdowns.
+- **Mechanic Dashboard:** Mechanics can manage service requests and track ongoing jobs.
+- **Google Maps Integration:** Locate nearby mechanics or service centers with ease.
+- **User-Friendly Interface:** Simple, intuitive design for both riders and mechanics.
+- **Real-Time Notifications:** Get instant alerts about service updates or emergencies.
+
+---
+
+## **Installation**
+
+### **1. Clone the repository**
+```bash
+git clone https://github.com/your-username/jijo-app.git
+cd jijo-app
+add initial README for jijo project 
